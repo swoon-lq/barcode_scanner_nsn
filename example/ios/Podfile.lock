@@ -1,0 +1,33 @@
+PODS:
+  - barcode_scan_nsn (0.0.1):
+    - Flutter
+    - MTBBarcodeScanner
+    - SwiftProtobuf
+  - Flutter (1.0.0)
+  - MTBBarcodeScanner (5.0.11)
+  - SwiftProtobuf (1.15.0)
+
+DEPENDENCIES:
+  - barcode_scan_nsn (from `.symlinks/plugins/barcode_scan_nsn/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - MTBBarcodeScanner
+    - SwiftProtobuf
+
+EXTERNAL SOURCES:
+  barcode_scan_nsn:
+    :path: ".symlinks/plugins/barcode_scan_nsn/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  barcode_scan_nsn: b25b21dae802fc97825a5566c53737d630248cfb
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  MTBBarcodeScanner: f453b33c4b7dfe545d8c6484ed744d55671788cb
+  SwiftProtobuf: 3320217e9d8fb75f36b40282e78c482640fd75dd
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
